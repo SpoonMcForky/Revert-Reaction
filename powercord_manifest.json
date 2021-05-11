@@ -1,0 +1,8 @@
+{
+    "name": "Revert Reaction",
+    "version": "1.0.0",
+    "author": "SpoonMcForky",
+    "license": "MIT",
+    "theme": "RevertReaction.css",
+    "description": "Reverts Reactions back to previous functionality"
+}
